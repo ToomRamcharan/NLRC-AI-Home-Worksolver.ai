@@ -1,0 +1,11 @@
+# Local development files only
+server.js
+package.json
+
+# Environment and config
+config.js
+.env
+.env.local
+
+# Backup files
+*.backup
